@@ -9,3 +9,5 @@ Instructions:
     * admin@mozohack.com | mozoadmin
     
 All codes are equipped with appropriate logs for debug. Deep comments will be added soon.
+
+Email for issues.
